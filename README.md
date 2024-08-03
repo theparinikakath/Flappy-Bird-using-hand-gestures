@@ -1,6 +1,7 @@
 # Flappy-Bird-using-hand-gestures
 
-# Flappy Bird with Hand Gestures - Game Description
+
+### Game Description
 
 Experience the classic Flappy Bird game in an innovative way with our Python-based version that allows you to control the bird using hand gestures! Utilizing advanced computer vision technology and machine learning algorithms, this game offers an immersive and interactive experience.
 
@@ -14,3 +15,5 @@ Experience the classic Flappy Bird game in an innovative way with our Python-bas
 - **High Scores:** Compete with friends and aim for the highest score, with your best achievements displayed on the leaderboard.
 
 Dive into a modern twist on a beloved classic and test your skills with hand gesture controls. Whether you're a seasoned Flappy Bird player or new to the game, this innovative version offers a fun and challenging experience for everyone.
+
+ ## Made as a DRID Project - summer internship in JIIT, Noida
