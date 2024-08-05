@@ -17,3 +17,4 @@ Experience the classic Flappy Bird game in an innovative way with our Python-bas
 Dive into a modern twist on a beloved classic and test your skills with hand gesture controls. Whether you're a seasoned Flappy Bird player or new to the game, this innovative version offers a fun and challenging experience for everyone.
 
  ## Made as a DRID Project - summer internship in JIIT, Noida
+ 
