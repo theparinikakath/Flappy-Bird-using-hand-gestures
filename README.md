@@ -12,7 +12,7 @@ Experience the classic Flappy Bird game in an innovative way with our Python-bas
 - **Classic Gameplay Mechanics:** Enjoy the familiar and addictive Flappy Bird mechanics where your objective is to navigate the bird through a series of pipes without crashing.
 - **Real-time Feedback:** Visual and audio feedback enhances the gaming experience, providing immediate responses to your hand gestures.
 - **Customizable Settings:** Adjust the sensitivity of hand gesture detection, game speed, and other parameters to match your preferences and skill level.
-- **High Scores:** Compete with friends and aim for the highest score, with your best achievements displayed on the leaderboard.
+- **High Scores:** Compete with friends and aim for the highest score.
 
 Dive into a modern twist on a beloved classic and test your skills with hand gesture controls. Whether you're a seasoned Flappy Bird player or new to the game, this innovative version offers a fun and challenging experience for everyone.
 
