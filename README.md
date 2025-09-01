@@ -49,13 +49,12 @@ Control the bird by **raising or lowering your hand** in front of your webcam â€
 
    ```bash
    git clone https://github.com/theparinikakath/Flappy-Bird-using-hand-gestures.git
-   cd Flappy-Bird-using-hand-gestures
     ````
 
 2. **Install dependencies**
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r readme.txt
    ```
 
 3. **Run the game**
